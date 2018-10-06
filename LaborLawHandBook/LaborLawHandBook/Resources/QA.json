@@ -1,0 +1,122 @@
+﻿[
+  {
+    "thu_tu": 1,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 1: Thời giờ làm việc được quy định thế nào?",
+    "dap_an": "\nKhông quá 08 giờ/ngày và 48 giờ/tuần (theo ngày) \nKhông quá 10 giờ/ngày và 48 giờ/tuần (theo tuần) \nGiờ làm việc ban đêm: \nTừ 22 giờ đến 6 giờ sáng ngày hôm sau \n(Điều 104, Điều 105, BLLĐ 2012)"
+  },
+  {
+    "thu_tu": 2,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 2: Thời giờ nghỉ hằng năm được quy định thế nào?",
+    "dap_an": "\nNSDLĐ quy định lịch nghỉ hằng năm và phải thông báo trước cho NLĐ \nNLĐ có thể thoả thuận với NSDLĐ để nghỉ hằng năm thành nhiều lần hoặc nghỉ gộp tối đa 03 năm một lần \nThời gian vận chuyển (bao gồm cả đường về) trên 02 ngày thì từ ngày thứ 03 trở đi được tính thêm thời gian đi đường ngoài ngày nghỉ hằng năm và chỉ được tính cho 01 lần nghỉ trong năm \nCứ 05 năm làm việc thì số ngày nghỉ hằng năm được tăng thêm tương ứng 01 ngày \n(Điều 111, Điều 112, BLLĐ 2012)"
+  },
+  {
+    "thu_tu": 3,
+    "yeu_thich": true,
+    "cau_hoi": "Câu 3: Các ngày nghỉ lễ theo quy định bao gồm những ngày nào?",
+    "dap_an": "\nTết Dương lịch 01 ngày (01/01 dương lịch) \nTết Âm lịch 05 ngày \nNgày 30/4 dương lịch \nNgày quốc tế lao động (01/5 dương lịch) \nNgày quốc khánh (02/9 dương lịch) \nNgày giỗ tổ Hùng Vương (10/3 âm lịch) \n01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước (NLĐ nước ngoài) \n(Điều 115, BLLĐ 2012)"
+  },
+  {
+    "thu_tu": 4,
+    "yeu_thich": true,
+    "cau_hoi": "Câu 4: Nếu ngày nghỉ lễ trùng vào ngày nghỉ hàng tuần thì sẽ như thế nào? Doanh nghiệp có được lựa chọn ngày nghỉ Tết âm lịch không?",
+    "dap_an": "\nNếu những ngày nghỉ trùng vào ngày nghỉ hằng tuần, nghỉ bù vào ngày kế tiếp \nNSDLĐ được lựa chọn thời gian nghỉ tết âm lịch: 01 ngày cuối năm và 04 ngày đầu năm âm lịch hoặc 2 ngày cuối năm và 3 ngày đầu năm âm lịch và  thông báo cho người lao động trước  ít nhất 30 ngày \n(Điều 115, BLLĐ 2012 & Điều 8 Nghị Định 45/2013/NĐ-CP)"
+  },
+  {
+    "thu_tu": 5,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 5: Thời gian thử việc được áp dụng như thế nào?",
+    "dap_an": "\nĐiều 27, BLLĐ 2012 quy định: \nThời gian thử việc căn cứ vào tính chất và mức độ phức tạp của công việc nhưng chỉ được thử việc 01 lần đối với một công việc và bảo đảm các điều kiện sau đây: \n  Không quá 60 ngày đối với công việc có chức danh nghề cần trình độ chuyên môn, kỹ thuật từ cao đẳng trở lên \n  Không quá 30 ngày đối với công việc có chức danh nghề cần trình độ chuyên môn kỹ thuật trung cấp nghề, trung cấp chuyên nghiệp, công nhân kỹ thuật, nhân viên nghiệp vụ \n  Không quá 6 ngày làm việc đối với công việc khác \n  Hợp đồng lao động thời vụ thì không phải thử việc"
+  },
+  {
+    "thu_tu": 6,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 6: Mức lương trong thời gian thử việc được quy định ra sao?",
+    "dap_an": "\nĐiều 28, BLLĐ 2012: \nTiền lương của người lao động trong thời gian thử việc ít nhất phải bằng 85% mức lương cấp bậc của công việc đó."
+  },
+  {
+    "thu_tu": 7,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 7: Quy định về việc thông báo kết quả thử việc?",
+    "dap_an": "\nTrong thời gian thử việc: 2 bên có quyền hủy bỏ thỏa thuận mà không phải báo trước và không bồi thường nếu việc làm thử không đạt yêu cầu \nKết thúc thử việc: phải thông báo kết quả thử việc trước 03 ngày đối với thời hạn thử việc 30 ngày hoặc 60 ngày \n(Điều 29 BLLĐ & Điều 7 NĐ 05/2015)."
+  },
+  {
+    "thu_tu": 8,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 8: Có mấy loại HĐLĐ?",
+    "dap_an": "\nĐiều 22 BLLĐ 2012, có 3 loại hợp đồng lao động: \n  Hợp đồng lao động không xác định thời hạn \n  Hợp đồng lao động xác định thời hạn (Từ đủ 12 tháng đến 36 tháng) \n  Hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 12 tháng."
+  },
+  {
+    "thu_tu": 9,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 9: Người lao động có thể giao kết HĐLĐ với nhiều người sử dụng lao động không?",
+    "dap_an": "\nNgười lao động có thể giao kết HĐLĐ với nhiều người sử dụng lao động, nhưng phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết. \n(Điều 21 BLLĐ)"
+  },
+  {
+    "thu_tu": 10,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 10: Thời hạn 30 ngày, kể từ ngày HĐLĐ hết hạn, nếu không ký HĐLĐ mới thì giải quyết ra sao?",
+    "dap_an": "\nHĐLĐ theo mùa vụ, HĐLĐ < 12 tháng trở thành HĐ xác định thời hạn 24 tháng. \nHĐLĐ xác định thời hạn trở thành HĐ không xác định thời hạn \n(Khoản 2 Điều 22 BLLĐ)"
+  },
+  {
+    "thu_tu": 11,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 11: Thời hạn báo trước cho mỗi loại HĐLĐ?",
+    "dap_an": "\nÍt nhất 45 ngày (calendar day) đối với hợp đồng lao động không xác định thời hạn \nÍt nhất 30 ngày (calendar day) đối với hợp đồng lao động xác định thời hạn \nÍt nhất 03 ngày làm việc (working day) đối với hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 12 tháng \n(Điều 37, Điều 38 BLLĐ 2012, trừ các trường hợp đặc biệt)"
+  },
+  {
+    "thu_tu": 12,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 12: NLĐ có thể sử dụng phép năm chưa sử dụng để tính trừ vào thời gian báo trước này được không?",
+    "dap_an": "\nTheo quy định tại Điều 114 BLLĐ: “Người lao động do thôi việc, bị mất việc làm hoặc vì các lý do khác mà chưa nghỉ hàng năm hoặc chưa nghỉ hết số ngày nghỉ hàng năm thì được thanh toán bằng tiền những ngày chưa nghỉ. NLĐ có dưới 12 tháng làm việc thì thời gian nghỉ hàng năm được tính theo tỷ lệ tương ứng với số thời gian làm việc. Trường hợp không nghỉ thì được thanh toán bằng tiền”. Do vậy, người lao động có thể sử dụng số ngày phép năm chưa sử dụng hết (tương ứng với số tháng làm việc trong năm đó) để tính trừ vào thời gian báo trước khi đơn phương chấm dứt hợp đồng lao động."
+  },
+  {
+    "thu_tu": 13,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 13: Thời hạn hợp đồng có được sửa đổi không?",
+    "dap_an": "\nĐược, chỉ sửa đổi được 1 lần nhưng không làm thay đổi loại hợp đồng đã giao kết. \n(Điều 05 NĐ05/2015)"
+  },
+  {
+    "thu_tu": 14,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 14: Trách nhiệm của NSDLĐ khi chấm dứt HĐLĐ như thế nào?",
+    "dap_an": "\nTrong thời hạn 15 ngày làm việc trước khi HĐLĐ hết hạn, phải báo cho người lao động biết thời điểm chấm dứt hợp đồng \nTrong 07 ngày làm việc kể từ ngày chấm dứt HĐLĐ (30 ngày với trường hợp đặc biệt), thanh toán đầy đủ các khoản có liên quan đến quyền lợi của mỗi bên \nNSDLĐ trả cho NLĐ (i) tiền lương chưa được thanh toán, (ii) ngày phép chưa sử dụng, và (iii) trợ cấp thôi việc/trợ cấp mất việc làm (nếu có) \n(Điều 47 BLLĐ)"
+  },
+  {
+    "thu_tu": 15,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 15: Người sử dụng lao động được phép chuyển người lao động sang làm công việc khác so với HĐLĐ trong các trường hợp nào, thời hạn bao lâu?",
+    "dap_an": "\nThiên tai, hỏa hoạn, dịch bệnh; \nÁp dụng biện pháp ngăn ngừa, khắc phục tai nạn lao động, bệnh nghề nghiệp \nSự cố điện, nước \nDo nhu cầu sản xuất, kinh doanh: Được quy định cụ thể trong nội quy của doanh nghiệp \nThời hạn: <= 60 ngày làm việc cộng dồn trong một năm hoặc lâu hơn nếu NLĐ đồng ý \n(Điều 8 - NĐ 05/2015)"
+  },
+  {
+    "thu_tu": 16,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 16: NLĐ đơn phương chấm dứt HĐLĐ trái pháp luật bị xử lý như thế nào?",
+    "dap_an": "\nKhông được trả trợ cấp thôi việc và phải bồi thường nửa tháng tiền lương (không có lý do đơn phương chấm dứt) \nBồi thường một khoản tiền tương ứng với tiền lương của NLĐ trong những ngày không báo trước (vi phạm thời hạn báo trước) \nPhải hoàn trả chi phí đào tạo cho NSDLĐ theo quy định tại Điều 62 của BLLĐ \n(Điều 43 BLLĐ)"
+  },
+  {
+    "thu_tu": 17,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 17: Điều kiện để nhân viên được hưởng trợ cấp thôi việc?",
+    "dap_an": "\nChấm dứt  HĐLĐ theo quy định tại các khoản 1, 2, 3, 5, 6, 7 và 9 Điều 36;  khoản 1 điều 37; khoản 1 điều 38 ; khoản 3 điều 126 của Bộ luật Lao động. \nCó thời gian làm việc từ đủ 12 tháng trở lên. (Điều 48, BLL Đ) \nKhông vi phạm thời gian báo trước. \nKhông có thời gian tham gia bảo hiểm thất nghiệp. (Điều 48, BLL Đ) \nKhông thuộc diện nghỉ việc để hưởng chế độ hưu trí hàng tháng. \nKhông bị sa thải theo khoản 1& 2 Điều 126 của Bộ luật Lao động."
+  },
+  {
+    "thu_tu": 18,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 18: Thời gian thai sản có được tính là thời gian để hưởng trợ cấp thôi việc tại doanh nghiệp không?",
+    "dap_an": "\nThời gian nghỉ chế độ thai sản được tính là thời gian để hưởng trợ cấp thôi việc tại doanh nghiệp (Khoản 3a Điều 14 NĐ 05/2015)"
+  },
+  {
+    "thu_tu": 19,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 19: Các quy định cấm khi xử lý kỷ luật lao động?",
+    "dap_an": "\nTheo Điều 128 BLLĐ quy định những điều cấm khi xử lý kỷ luật lao động, như sau: \n  Xâm phạm thân thể, nhân phảm của người lao động \n  Dùng hình thức phạt tiền, cắt lương thay việc xử lý kỷ luật lao động \n  Xử lý kỷ luật lao động đối với người lao động có hành vi vi phạm không được quy định trong nội quy lao động"
+  },
+  {
+    "thu_tu": 20,
+    "yeu_thich": false,
+    "cau_hoi": "Câu 20: Cách tính trả trợ cấp thôi việc?",
+    "dap_an": "\nNLĐ làm việc thường xuyên từ đủ 12 tháng trở lên \nNửa tháng lương cho 1 năm làm việc \nĐủ 1 tháng đến <6 tháng:  làm tròn thành 1/2 năm \nĐủ 6 tháng đến <12 tháng: làm tròn thành 1 năm \nNhưng chỉ trả cho khoảng thời gian không tham gia bảo hiểm thất nghiệp \n(Điều 48 BLLĐ)"
+  }
+]

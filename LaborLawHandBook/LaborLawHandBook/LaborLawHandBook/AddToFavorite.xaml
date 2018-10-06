@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="LaborLawHandBook.AddToFavorite"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:LaborLawHandBook"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="45"/>
+
+
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="Sẽ lưu câu số: " TextWrapping="Wrap" Margin="5,10" FontFamily="Segoe UI Light"
+                   FontWeight="Bold" Foreground="DarkBlue"/>
+        <TextBox Grid.Row="0" Grid.Column="1" Margin="5,1" FontFamily="Segoe UI Light"
+                   FontWeight="Bold" Foreground="DarkBlue"
+                    Name="txtThuTu"/>
+        <StackPanel Grid.Row="6" Grid.ColumnSpan="2" 
+                    Orientation="Horizontal" 
+                    HorizontalAlignment="Center">
+            <AppBarButton Foreground="DarkBlue" Label="Lưu" 
+                          Icon="Save" Name="btLuu" Click="btLuu_ClickAsync"/>
+            <AppBarButton Foreground="DarkBlue" Label="Quay về" 
+                          Icon="Back" Name="btBack" Click="btBack_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Page>

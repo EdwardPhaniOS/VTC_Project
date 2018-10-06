@@ -1,0 +1,86 @@
+﻿<Page
+    x:Class="LaborLawHandBook.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:LaborLawHandBook"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="40"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Background="CornflowerBlue">
+            <Button x:ConnectionId='17' Background="CornflowerBlue" Margin="0,7" Foreground="White" FontFamily="Segoe MDL2 Assets" 
+                Content="&#xE700;" Name="btHome"                     />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Column="1" Background="CornflowerBlue">
+            <TextBox x:ConnectionId='15' x:Name="Timkiem" Width="260"  Margin="5, 5, 5, 5 " PlaceholderText="Tìm kiếm" FontFamily="Segoe UI Light" Foreground="White" FontSize="15"
+                       />
+            <Button x:ConnectionId='16' Background="CornflowerBlue" Margin="3, 8, 5, 5" Foreground="White" FontFamily="Segoe MDL2 Assets" 
+                Content="&#xE721;" Name="btSearch"                       />
+        </StackPanel>
+
+        <SplitView x:ConnectionId='1' Name="splitview" Grid.Row="1" Grid.ColumnSpan="2"
+                   IsPaneOpen="False" DisplayMode="CompactInline"
+                   OpenPaneLength="155">
+            <SplitView.Pane>
+                <StackPanel Background="CornflowerBlue">
+                    <StackPanel Orientation="Horizontal">
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:ConnectionId='12' Background="CornflowerBlue" Foreground="White" FontFamily="Segoe MDL2 Assets" 
+                Content="&#xE948;" Name="btThem"                     />
+                        <TextBlock x:ConnectionId='13' Name="txtThem" Margin="15,10,0,5" Text="Thêm"
+                                 Foreground="White"                       HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="Segoe UI Light" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:ConnectionId='10' Background="CornflowerBlue" Foreground="White" FontFamily="Segoe MDL2 Assets" 
+                Content="&#xE70F;" Name="btSua"                    />
+                        <TextBlock x:ConnectionId='11' Name="txtSua" Margin="13,20,0,5" Text="Sửa"
+                                 Foreground="White"                      HorizontalAlignment="Left" VerticalAlignment="Center" Width="95" FontFamily="Segoe UI Light"/>
+                    </StackPanel>
+                     <StackPanel Orientation="Horizontal">
+                        <Button x:ConnectionId='8' Background="CornflowerBlue" Foreground="White" FontFamily="Segoe MDL2 Assets" 
+                Content="&#xF0E4;"                          />
+                        <TextBlock x:ConnectionId='9' x:Name="btDanhSach" FontSize="15" Margin="15,20,0,5" Text="Danh sách ưa thích" TextWrapping="Wrap"
+                                 Foreground="White"  HorizontalAlignment="Left" VerticalAlignment="Center" Width="90"                          />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:ConnectionId='6' Background="CornflowerBlue" Foreground="White" FontFamily="Segoe MDL2 Assets" 
+                Content="&#xE1CE;" Name="btLuuVaoDanhSach"                               />
+                        <TextBlock x:ConnectionId='7' Name="txtLuuVaoDanhSach" Margin="16,5,0,5" Text="Lưu vào danh sách ưa thích" TextWrapping="Wrap"
+                                 Foreground="White"                                 HorizontalAlignment="Left" VerticalAlignment="Center" Width="70" FontFamily="Segoe UI Light"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:ConnectionId='4' Background="CornflowerBlue" Foreground="White" FontFamily="Segoe MDL2 Assets" 
+                Content="&#xE75C;" Name="btXoaKhoiDanhSach"                                />
+                        <TextBlock x:ConnectionId='5' Name="txtXoaKhoiDanhSach" Margin="16,5,0,5" Text="Xóa khỏi danh sách ưa thích" TextWrapping="Wrap"
+                                 Foreground="White"                                  HorizontalAlignment="Left" VerticalAlignment="Center" Width="70" FontFamily="Segoe UI Light"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:ConnectionId='2' Background="CornflowerBlue"  Foreground="White" FontFamily="Segoe MDL2 Assets" 
+                Content="&#xE112;" Name="btQuayVe"                       />
+                        <TextBlock x:ConnectionId='3' Name="txtQuayVe" Margin="16,20,0,5" Text="Quay Về" TextWrapping="Wrap"
+                                 Foreground="White"                         HorizontalAlignment="Left" VerticalAlignment="Center" Width="70" FontFamily="Segoe UI Light"/>
+                    </StackPanel>
+
+                </StackPanel>
+            </SplitView.Pane>
+
+            <Frame x:ConnectionId='14' Name="Frame_NoiDung">
+
+            </Frame>
+        </SplitView>
+    </Grid>
+</Page>
+
